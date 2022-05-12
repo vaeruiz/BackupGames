@@ -1,0 +1,3 @@
+Restablecer carpeta en 
+
+"C:\Users\%USERNAME%\Documents\Square Enix\"

@@ -1,0 +1,2 @@
+Copiar carpeta DarkSoulsIII en
+"C:\Users\%NOMBRE_USUARIO%\AppData\Roaming\DarkSoulsIII"
