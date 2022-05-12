@@ -1,0 +1,2 @@
+Meter carpeta StardewValley en C:\Users\%USERNAME%\AppData\Roaming\StardewValley
+Meter carpeta Mods y Mods_off en F:\SteamLibrary\steamapps\common\Stardew Valley
